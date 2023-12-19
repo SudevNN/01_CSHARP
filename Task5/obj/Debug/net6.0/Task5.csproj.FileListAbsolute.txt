@@ -1,4 +1,3 @@
-C:\Users\sudev\OneDrive\Рабочий стол\Разработчик ИИ\01_CSHARP\Lesson1\Task5\obj\Debug\net6.0\Task5.csproj.AssemblyReference.cache
 C:\Users\sudev\OneDrive\Рабочий стол\Разработчик ИИ\01_CSHARP\Lesson1\Task5\obj\Debug\net6.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sudev\OneDrive\Рабочий стол\Разработчик ИИ\01_CSHARP\Lesson1\Task5\obj\Debug\net6.0\Task5.AssemblyInfoInputs.cache
 C:\Users\sudev\OneDrive\Рабочий стол\Разработчик ИИ\01_CSHARP\Lesson1\Task5\obj\Debug\net6.0\Task5.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\sudev\OneDrive\Рабочий стол\Разработчик ИИ\01_C
 C:\Users\sudev\OneDrive\Рабочий стол\Разработчик ИИ\01_CSHARP\Lesson1\Task5\obj\Debug\net6.0\Task5.pdb
 C:\Users\sudev\OneDrive\Рабочий стол\Разработчик ИИ\01_CSHARP\Lesson1\Task5\obj\Debug\net6.0\Task5.genruntimeconfig.cache
 C:\Users\sudev\OneDrive\Рабочий стол\Разработчик ИИ\01_CSHARP\Lesson1\Task5\obj\Debug\net6.0\ref\Task5.dll
+C:\Users\sudev\OneDrive\Рабочий стол\Разработчик ИИ\01_CSHARP\Lesson1\Task5\obj\Debug\net6.0\Task5.sourcelink.json

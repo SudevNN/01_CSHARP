@@ -1,4 +1,4 @@
-﻿int N = 10;
+﻿int N = 100;
 int i = 1;
 
 while (i <= N)
